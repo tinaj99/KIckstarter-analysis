@@ -12,12 +12,12 @@ Analysis was performed using the Launch Date and Goals.
 ### Analysis of Outcomes Based on Launch Date
 May, June and July were the months with the highest number of successful theater outcomes, with May being the month with highest number of successful outcomes, as well as total number of launches.
 
-![](resources/Theater_Outcomes_vs_Launch.png)
+![](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Smaller goals tended to have higher degree of success, although there was a small band of higher goal campaigns that also succeeded.
 
-![](resources/Outcomes_vs_Goals.png)
+![](./resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered

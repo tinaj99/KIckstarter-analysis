@@ -17,7 +17,7 @@ May, June and July were the months with the highest number of successful theater
 ### Analysis of Outcomes Based on Goals
 Smaller goals tended to have higher degree of success, although there was a small band of higher goal campaigns that also succeeded.
 
-![](resources/Outcomes_vs_Goals.png)
+![](resources/Outcomes_vs_Goals.PNG)
 
 
 ### Challenges and Difficulties Encountered

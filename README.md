@@ -47,3 +47,4 @@ It would be interesting to see the percentage of successful theater outcomes in 
 
 ##### Outcomes Based On Goals
 The majority of the projects fell in the lower goal ranges, for example the range of 1000 to 4999 had the highest number of projects. The number of projects fell significantly when going higher than 15,000. To this end, we should look at the mean and median, and also the spread by looking at the standard deviation; as we would likely have higher confidence in the data with higher number of statistical points.
+
